@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BF418A26-4612-4F28-968D-C81F9C6EBA43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BusyIndicatorInIOS/Info.plist">
+    <Files>
+      <File FileName="BusyIndicatorInIOS/packages.config" Line="1" Column="1" />
+      <File FileName="BusyIndicatorInIOS/MyViewController.cs" Line="1" Column="1" />
+      <File FileName="BusyIndicatorInIOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.BusyIndicatorInIOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.954ED523-1D14-4F4D-9B9F-64EDAA4912CC" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
